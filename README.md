@@ -19,4 +19,4 @@
 # 更多
 欢迎关注公众号
 
-![](./static/二维码（小）.jpg) 
+![](./static/qrcode.jpg) 
